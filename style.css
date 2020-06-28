@@ -2,3 +2,17 @@ body{
      color: blue;
      text-align: center;
 }
+table{
+     background-color: #00ffff;
+     border-collapse: collapse;
+     margin-top: 10px;
+     margin-left: 40%
+}
+th, td{
+     color: red;
+     text-align: center;
+     border: 3px solid black;
+     font-family: Arial;
+     font-weight: bold;
+     padding: 5px;
+}
